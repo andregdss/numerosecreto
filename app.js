@@ -19,7 +19,7 @@ function exibirTextoNaTela (tag, texto) {      //função com parametro
 
 function exibirInicio() {
     exibirTextoNaTela('h1', 'Jogo do Numero Secreto');
-    exibirTextoNaTela('p', 'Escolha um numero entre 1 e 10');
+    exibirTextoNaTela('p', 'Escolha um numero entre 1 e 50');
 }
 
 function gerarNumeroAleatorio () {
